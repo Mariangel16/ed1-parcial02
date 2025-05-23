@@ -26,5 +26,6 @@ public class E01MeetingRooms {
 
         // El tamaño del heap indica cuántas salas se están usando en paralelo
         return minHeap.size();
+        //
     }
 }
